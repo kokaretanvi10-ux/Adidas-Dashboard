@@ -6,6 +6,8 @@ This project showcases an interactive Excel Dashboard built using Adidas sales d
 
 The dataset contains 9,600+ records, covering multiple regions, products, and sales channels.
 
+📷 Dashboard Preview - https://www.linkedin.com/feed/update/urn:li:activity:7468940880155000832/
+
 
 🎯 Objectives
 
